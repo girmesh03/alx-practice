@@ -2,6 +2,10 @@
 
 void swap(int *a, int *b);
 
+/**
+ * main - Entry point
+ * Return: 0
+ */
 int main(void)
 {
 	/*USE CASE 1:*/
